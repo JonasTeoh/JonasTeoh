@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Jonas Teoh
 
-<!--
-**JonasTeoh/JonasTeoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Software Engineering** undergraduate student at **Universiti Tun Hussein Onn Malaysia (UTHM)**,
+- 🌱 **Currently Learning:** Flutter, Firebase, and Laravel for my final year project.
+- 🚀 **Final Year Project:** Dual-Platform Automated Logistics and Workforce Management System with Real-Time Tracking.
+- 💻 **Skills:** 
+  - Programming Languages: Python, Java, PHP, Dart, C++, C#
+  - Web Development: Laravel, HTML, CSS, JavaScript, Dotnet
+  - Mobile: Flutter
+  - Databases: MySQL, Firebase
+  - Tools: Git, Visual Studio Code, Postman
