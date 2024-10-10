@@ -10,4 +10,4 @@ I am a **Software Engineering** undergraduate student at **Universiti Tun Hussei
   - Web Development: Laravel, HTML, CSS, JavaScript, Dotnet
   - Mobile: Flutter
   - Databases: MySQL, Firebase
-  - Tools: Git, Visual Studio Code, Postman
+  - Tools: Git, Visual Studio Code, Android Studio
