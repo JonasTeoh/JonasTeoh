@@ -12,3 +12,4 @@ I am a **Software Engineering** undergraduate student at **Universiti Tun Hussei
   - Mobile: Flutter
   - Databases: MySQL, Firebase
   - Tools: Git, Visual Studio Code, Android Studio
+- 📬 **Contact Me:**   weijun600@gmail.com
