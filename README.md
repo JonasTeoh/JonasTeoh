@@ -11,5 +11,5 @@ I am a **Software Engineering** undergraduate student at **Universiti Tun Hussei
   - Web Development: Laravel, HTML, CSS, JavaScript, Dotnet
   - Mobile: Flutter
   - Databases: MySQL, Firebase
-  - Tools: Git, Visual Studio Code, Android Studio
+  - Tools: Git, Docker, Visual Studio Code, Visual Studio, Android Studio, IntelliJ, Figma
 - 📬 **Contact Me:**   weijun600@gmail.com
