@@ -10,6 +10,6 @@ I am a **Software Engineering** undergraduate student at **Universiti Tun Hussei
   - Programming Languages: Python, Java, PHP, Dart, C++, C#
   - Web Development: Laravel, HTML, CSS, JavaScript, Dotnet
   - Mobile: Flutter
-  - Databases: MySQL, Firebase
+  - Databases: MySQL, Supabase
   - Tools: Git, Docker, Visual Studio Code, Visual Studio, Android Studio, IntelliJ, Figma
 - 📬 **Contact Me:**   weijun600@gmail.com
