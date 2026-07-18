@@ -69,8 +69,8 @@ maintainable, and genuinely useful.
 
 ## 📫 Connect
 
-Portfolio: https://portfolio.jonasteoh.workers.dev
+🌐 &nbsp; Portfolio: https://portfolio.jonasteoh.workers.dev
 <br>
-LinkedIn: https://www.linkedin.com/in/jonas-teoh/
+💼 &nbsp; LinkedIn: https://www.linkedin.com/in/jonas-teoh/
 <br>
-Email: jonas.teoh.wj@gmail.com
+📧 &nbsp; Email: jonas.teoh.wj@gmail.com
