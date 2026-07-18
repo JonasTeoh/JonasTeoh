@@ -59,8 +59,8 @@ maintainable, and genuinely useful.
 
 - **Logistics & Workforce Management System** — my Final Year Project: a dual-platform
   system with real-time tracking, with Supabase, Firebase push, and Google Maps/Mapbox.
-  - [Laravel web](https://github.com/JonasTeoh/logistics-workforce-web)
-  - [Flutter mobile](https://github.com/JonasTeoh/logistics-workforce-mobile)
+  - [Laravel web](https://github.com/JonasTeoh/logistics-workforce-web) — the supervisor/admin platform for managing orders, containers, drivers, and workforce.
+  - [Flutter mobile](https://github.com/JonasTeoh/logistics-workforce-mobile) — the driver app for viewing jobs, clocking attendance, and navigating deliveries.
 - **[Friends Connect](https://github.com/JonasTeoh/friends-connect-system)** — a cross-platform
   .NET social app (ASP.NET Core Web API + .NET MAUI + EF Core).
 - **[Bicycle Shop Management System](https://github.com/JonasTeoh/bicycle-shop-management-system)** —
