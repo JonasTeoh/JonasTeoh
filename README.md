@@ -69,8 +69,8 @@ maintainable, and genuinely useful.
 
 ## 📫 Connect
 
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" height="20" /> &nbsp; https://portfolio.jonasteoh.workers.dev
+Portfolio: https://portfolio.jonasteoh.workers.dev
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" /> &nbsp; https://www.linkedin.com/in/jonas-teoh/
+LinkedIn: https://www.linkedin.com/in/jonas-teoh/
 <br>
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="20" /> &nbsp; jonas.teoh.wj@gmail.com
+Email: jonas.teoh.wj@gmail.com
